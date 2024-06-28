@@ -1,4 +1,3 @@
-package Java;
 import java.util.*;
 public class Functions {
     public  static void printMyname(String name){
